@@ -33,4 +33,4 @@ Include 3 or more CSS style rules with **three different types of selectors** wi
 
 ## Requirement 4 (Submission)
 
-Assignment 2 will need to be submitted in 2 different ways.  You will need to submit a zipped folder containing your sites files to canvas before the due date and time listed.  You will also need to upload this document via Github repository.   All files (images, css file, html pages, fonts, etc) should be placed in an assignment2 directory/folder. 
+Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Sakai that your assignment has been submitted.
